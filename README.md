@@ -1,1 +1,4 @@
-# TelegramBot
+Telegtam_bot
+
+Телеграм-бот для конвертации валют.
+Имя в телеграме @KrikBo_bot
